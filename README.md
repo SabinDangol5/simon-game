@@ -10,4 +10,4 @@ Repeat the color sequence to test your memory and reach higher levels!
 4. Continue until you make a mistake.
 
 ## Live Demo
-Play online: `https://Sabindangol5.github.io/simon-game/`
+Play online: `https://SabinDangol5.github.io/simon-game/`
